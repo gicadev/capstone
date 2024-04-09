@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/humidity"
+		},
+		{
+			"name": "dht11",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
